@@ -1,1 +1,1 @@
-# Bangluru_housing_price_prediction
+# Bangalore-house-price-prediction-model
